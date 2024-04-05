@@ -1,0 +1,15 @@
+/Users/olivervincent/Projects/PizzaStore/PizzaStore/bin/Debug/net7.0/PizzaStore
+/Users/olivervincent/Projects/PizzaStore/PizzaStore/bin/Debug/net7.0/PizzaStore.deps.json
+/Users/olivervincent/Projects/PizzaStore/PizzaStore/bin/Debug/net7.0/PizzaStore.runtimeconfig.json
+/Users/olivervincent/Projects/PizzaStore/PizzaStore/bin/Debug/net7.0/PizzaStore.dll
+/Users/olivervincent/Projects/PizzaStore/PizzaStore/bin/Debug/net7.0/PizzaStore.pdb
+/Users/olivervincent/Projects/PizzaStore/PizzaStore/obj/Debug/net7.0/PizzaStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olivervincent/Projects/PizzaStore/PizzaStore/obj/Debug/net7.0/PizzaStore.AssemblyInfoInputs.cache
+/Users/olivervincent/Projects/PizzaStore/PizzaStore/obj/Debug/net7.0/PizzaStore.AssemblyInfo.cs
+/Users/olivervincent/Projects/PizzaStore/PizzaStore/obj/Debug/net7.0/PizzaStore.csproj.CoreCompileInputs.cache
+/Users/olivervincent/Projects/PizzaStore/PizzaStore/obj/Debug/net7.0/PizzaStore.dll
+/Users/olivervincent/Projects/PizzaStore/PizzaStore/obj/Debug/net7.0/refint/PizzaStore.dll
+/Users/olivervincent/Projects/PizzaStore/PizzaStore/obj/Debug/net7.0/PizzaStore.pdb
+/Users/olivervincent/Projects/PizzaStore/PizzaStore/obj/Debug/net7.0/PizzaStore.genruntimeconfig.cache
+/Users/olivervincent/Projects/PizzaStore/PizzaStore/obj/Debug/net7.0/ref/PizzaStore.dll
+/Users/olivervincent/Projects/PizzaStore/PizzaStore/obj/Debug/net7.0/PizzaStore.sourcelink.json

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vwRc/57wJbicx6bYY95l3RZpW0HiFrrpf1RgW2el2jzJpgs3gbUM7U8cMr3QsSUT85/UhDcSo3Sabaml7IhmFA==",
+  "success": true,
+  "projectFilePath": "/Users/olivervincent/Projects/PizzaStore/PizzaStore/PizzaStore.csproj",
+  "expectedPackageFiles": [
+    "/Users/olivervincent/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/olivervincent/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/olivervincent/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.14/microsoft.netcore.app.host.osx-arm64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
